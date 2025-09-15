@@ -19,10 +19,10 @@ This project utilizes deep learning with TensorFlow for leaf classification and 
 </ul>
 <h3>Installation</h3>
 <p>To run this project locally,follow these steps:</p>
-1.Clone this repository<br>
+1.<h5>Clone this repository</h5>
 git clone https://github.com/yourusername/vision-assistant.git<br>
 cd leaf_detection<br>
-<h5>Install dependencies: </h5>
+<h5>2.Install dependencies </h5>
 <h5>Run the application:</h5>
 python leaf_detection.py<br>
 
