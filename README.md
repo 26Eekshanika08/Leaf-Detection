@@ -19,7 +19,7 @@ This project utilizes deep learning with TensorFlow for leaf classification and 
 </ul>
 <h3>Installation</h3>
 <p>To run this project locally,follow these steps:</p>
-1.Clone this repository
-git clone 
+1.Clone this repository<br>
+git clone <a>https://github.com/26Eekshanika08/Leaf-Detection</a>
 
 
