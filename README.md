@@ -1,4 +1,6 @@
 # Leaf-Detection
+
+
 <h3>Description</h3>
 Ayurvedic Leaf Recognition is a web application built to identify Ayurvedic leaves and provide information about their benefits. Users can upload images of Ayurvedic leaves, and the application will classify and provide details about the recognized leaf.<br>
 
@@ -19,11 +21,11 @@ This project utilizes deep learning with TensorFlow for leaf classification and 
 </ul>
 <h3>Installation</h3>
 <p>To run this project locally,follow these steps:</p>
-1.<h5>Clone this repository</h5>
+<h5>1.Clone this repository</h5>
 git clone https://github.com/yourusername/vision-assistant.git<br>
 cd leaf_detection<br>
 <h5>2.Install dependencies </h5>
-<h5>Run the application:</h5>
+<h5>3.Run the application:</h5>
 python leaf_detection.py<br>
 
 
